@@ -1,0 +1,15 @@
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\multiplicationTable\bin\Debug\net6.0\multiplicationTable.exe
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\multiplicationTable\bin\Debug\net6.0\multiplicationTable.deps.json
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\multiplicationTable\bin\Debug\net6.0\multiplicationTable.runtimeconfig.json
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\multiplicationTable\bin\Debug\net6.0\multiplicationTable.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\multiplicationTable\bin\Debug\net6.0\multiplicationTable.pdb
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\multiplicationTable\obj\Debug\net6.0\multiplicationTable.csproj.AssemblyReference.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\multiplicationTable\obj\Debug\net6.0\multiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\multiplicationTable\obj\Debug\net6.0\multiplicationTable.AssemblyInfoInputs.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\multiplicationTable\obj\Debug\net6.0\multiplicationTable.AssemblyInfo.cs
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\multiplicationTable\obj\Debug\net6.0\multiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\multiplicationTable\obj\Debug\net6.0\multiplicationTable.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\multiplicationTable\obj\Debug\net6.0\refint\multiplicationTable.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\multiplicationTable\obj\Debug\net6.0\multiplicationTable.pdb
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\multiplicationTable\obj\Debug\net6.0\multiplicationTable.genruntimeconfig.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\multiplicationTable\obj\Debug\net6.0\ref\multiplicationTable.dll

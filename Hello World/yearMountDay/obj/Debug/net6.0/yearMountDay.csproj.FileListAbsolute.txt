@@ -1,0 +1,15 @@
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\yearMountDay\bin\Debug\net6.0\yearMountDay.exe
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\yearMountDay\bin\Debug\net6.0\yearMountDay.deps.json
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\yearMountDay\bin\Debug\net6.0\yearMountDay.runtimeconfig.json
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\yearMountDay\bin\Debug\net6.0\yearMountDay.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\yearMountDay\bin\Debug\net6.0\yearMountDay.pdb
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\yearMountDay\obj\Debug\net6.0\yearMountDay.csproj.AssemblyReference.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\yearMountDay\obj\Debug\net6.0\yearMountDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\yearMountDay\obj\Debug\net6.0\yearMountDay.AssemblyInfoInputs.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\yearMountDay\obj\Debug\net6.0\yearMountDay.AssemblyInfo.cs
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\yearMountDay\obj\Debug\net6.0\yearMountDay.csproj.CoreCompileInputs.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\yearMountDay\obj\Debug\net6.0\yearMountDay.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\yearMountDay\obj\Debug\net6.0\refint\yearMountDay.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\yearMountDay\obj\Debug\net6.0\yearMountDay.pdb
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\yearMountDay\obj\Debug\net6.0\yearMountDay.genruntimeconfig.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\yearMountDay\obj\Debug\net6.0\ref\yearMountDay.dll

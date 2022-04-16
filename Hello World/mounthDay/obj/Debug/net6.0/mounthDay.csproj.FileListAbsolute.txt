@@ -1,0 +1,15 @@
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\mounthDay\bin\Debug\net6.0\mounthDay.exe
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\mounthDay\bin\Debug\net6.0\mounthDay.deps.json
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\mounthDay\bin\Debug\net6.0\mounthDay.runtimeconfig.json
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\mounthDay\bin\Debug\net6.0\mounthDay.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\mounthDay\bin\Debug\net6.0\mounthDay.pdb
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\mounthDay\obj\Debug\net6.0\mounthDay.csproj.AssemblyReference.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\mounthDay\obj\Debug\net6.0\mounthDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\mounthDay\obj\Debug\net6.0\mounthDay.AssemblyInfoInputs.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\mounthDay\obj\Debug\net6.0\mounthDay.AssemblyInfo.cs
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\mounthDay\obj\Debug\net6.0\mounthDay.csproj.CoreCompileInputs.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\mounthDay\obj\Debug\net6.0\mounthDay.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\mounthDay\obj\Debug\net6.0\refint\mounthDay.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\mounthDay\obj\Debug\net6.0\mounthDay.pdb
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\mounthDay\obj\Debug\net6.0\mounthDay.genruntimeconfig.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\mounthDay\obj\Debug\net6.0\ref\mounthDay.dll

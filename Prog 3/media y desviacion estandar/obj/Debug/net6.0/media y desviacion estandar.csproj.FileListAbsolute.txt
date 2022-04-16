@@ -1,0 +1,30 @@
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\media y desviacion estandar\bin\Debug\net6.0\media y desviacion estandar.exe
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\media y desviacion estandar\bin\Debug\net6.0\media y desviacion estandar.deps.json
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\media y desviacion estandar\bin\Debug\net6.0\media y desviacion estandar.runtimeconfig.json
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\media y desviacion estandar\bin\Debug\net6.0\media y desviacion estandar.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\media y desviacion estandar\bin\Debug\net6.0\media y desviacion estandar.pdb
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\media y desviacion estandar\obj\Debug\net6.0\media y desviacion estandar.csproj.AssemblyReference.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\media y desviacion estandar\obj\Debug\net6.0\media y desviacion estandar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\media y desviacion estandar\obj\Debug\net6.0\media y desviacion estandar.AssemblyInfoInputs.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\media y desviacion estandar\obj\Debug\net6.0\media y desviacion estandar.AssemblyInfo.cs
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\media y desviacion estandar\obj\Debug\net6.0\media y desviacion estandar.csproj.CoreCompileInputs.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\media y desviacion estandar\obj\Debug\net6.0\media y desviacion estandar.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\media y desviacion estandar\obj\Debug\net6.0\refint\media y desviacion estandar.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\media y desviacion estandar\obj\Debug\net6.0\media y desviacion estandar.pdb
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\media y desviacion estandar\obj\Debug\net6.0\media y desviacion estandar.genruntimeconfig.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\media y desviacion estandar\obj\Debug\net6.0\ref\media y desviacion estandar.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\media y desviacion estandar\bin\Debug\net6.0\media y desviacion estandar.exe
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\media y desviacion estandar\bin\Debug\net6.0\media y desviacion estandar.deps.json
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\media y desviacion estandar\bin\Debug\net6.0\media y desviacion estandar.runtimeconfig.json
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\media y desviacion estandar\bin\Debug\net6.0\media y desviacion estandar.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\media y desviacion estandar\bin\Debug\net6.0\media y desviacion estandar.pdb
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\media y desviacion estandar\obj\Debug\net6.0\media y desviacion estandar.csproj.AssemblyReference.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\media y desviacion estandar\obj\Debug\net6.0\media y desviacion estandar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\media y desviacion estandar\obj\Debug\net6.0\media y desviacion estandar.AssemblyInfoInputs.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\media y desviacion estandar\obj\Debug\net6.0\media y desviacion estandar.AssemblyInfo.cs
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\media y desviacion estandar\obj\Debug\net6.0\media y desviacion estandar.csproj.CoreCompileInputs.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\media y desviacion estandar\obj\Debug\net6.0\media y desviacion estandar.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\media y desviacion estandar\obj\Debug\net6.0\refint\media y desviacion estandar.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\media y desviacion estandar\obj\Debug\net6.0\media y desviacion estandar.pdb
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\media y desviacion estandar\obj\Debug\net6.0\media y desviacion estandar.genruntimeconfig.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\media y desviacion estandar\obj\Debug\net6.0\ref\media y desviacion estandar.dll

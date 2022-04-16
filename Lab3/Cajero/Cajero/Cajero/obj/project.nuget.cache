@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xgMqKlWbfGFLYACqqQPJjDJpj6pt2CzPqpkHxsaxqz+6Y4zCUVnQjeRPlU7UGBNcivFq42OJknimtzpLxnqkMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TheWo\\Desktop\\Repositorio\\CSharp\\Lab3\\Cajero\\Cajero\\Cajero\\Cajero.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TheWo\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
+    "C:\\Users\\TheWo\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

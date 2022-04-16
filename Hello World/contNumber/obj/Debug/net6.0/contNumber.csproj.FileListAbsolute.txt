@@ -1,0 +1,15 @@
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\contNumber\bin\Debug\net6.0\contNumber.exe
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\contNumber\bin\Debug\net6.0\contNumber.deps.json
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\contNumber\bin\Debug\net6.0\contNumber.runtimeconfig.json
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\contNumber\bin\Debug\net6.0\contNumber.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\contNumber\bin\Debug\net6.0\contNumber.pdb
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\contNumber\obj\Debug\net6.0\contNumber.csproj.AssemblyReference.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\contNumber\obj\Debug\net6.0\contNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\contNumber\obj\Debug\net6.0\contNumber.AssemblyInfoInputs.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\contNumber\obj\Debug\net6.0\contNumber.AssemblyInfo.cs
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\contNumber\obj\Debug\net6.0\contNumber.csproj.CoreCompileInputs.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\contNumber\obj\Debug\net6.0\contNumber.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\contNumber\obj\Debug\net6.0\refint\contNumber.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\contNumber\obj\Debug\net6.0\contNumber.pdb
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\contNumber\obj\Debug\net6.0\contNumber.genruntimeconfig.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Hello World\contNumber\obj\Debug\net6.0\ref\contNumber.dll
