@@ -1,0 +1,30 @@
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\Apostar\bin\Debug\net6.0\Apostar.exe
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\Apostar\bin\Debug\net6.0\Apostar.deps.json
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\Apostar\bin\Debug\net6.0\Apostar.runtimeconfig.json
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\Apostar\bin\Debug\net6.0\Apostar.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\Apostar\bin\Debug\net6.0\Apostar.pdb
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\Apostar\obj\Debug\net6.0\Apostar.csproj.AssemblyReference.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\Apostar\obj\Debug\net6.0\Apostar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\Apostar\obj\Debug\net6.0\Apostar.AssemblyInfoInputs.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\Apostar\obj\Debug\net6.0\Apostar.AssemblyInfo.cs
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\Apostar\obj\Debug\net6.0\Apostar.csproj.CoreCompileInputs.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\Apostar\obj\Debug\net6.0\Apostar.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\Apostar\obj\Debug\net6.0\refint\Apostar.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\Apostar\obj\Debug\net6.0\Apostar.pdb
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\Apostar\obj\Debug\net6.0\Apostar.genruntimeconfig.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Lab3\Cajero\Apostar\obj\Debug\net6.0\ref\Apostar.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\Apostar\bin\Debug\net6.0\Apostar.exe
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\Apostar\bin\Debug\net6.0\Apostar.deps.json
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\Apostar\bin\Debug\net6.0\Apostar.runtimeconfig.json
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\Apostar\bin\Debug\net6.0\Apostar.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\Apostar\bin\Debug\net6.0\Apostar.pdb
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\Apostar\obj\Debug\net6.0\Apostar.csproj.AssemblyReference.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\Apostar\obj\Debug\net6.0\Apostar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\Apostar\obj\Debug\net6.0\Apostar.AssemblyInfoInputs.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\Apostar\obj\Debug\net6.0\Apostar.AssemblyInfo.cs
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\Apostar\obj\Debug\net6.0\Apostar.csproj.CoreCompileInputs.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\Apostar\obj\Debug\net6.0\Apostar.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\Apostar\obj\Debug\net6.0\refint\Apostar.dll
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\Apostar\obj\Debug\net6.0\Apostar.pdb
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\Apostar\obj\Debug\net6.0\Apostar.genruntimeconfig.cache
+C:\Users\TheWo\Desktop\Repositorio\CSharp\Prog 3\Apostar\obj\Debug\net6.0\ref\Apostar.dll
