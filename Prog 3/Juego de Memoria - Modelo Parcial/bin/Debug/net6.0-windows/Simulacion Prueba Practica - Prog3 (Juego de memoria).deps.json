@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Simulacion Prueba Practica - Prog3 (Juego de memoria)/1.0.0": {
+        "runtime": {
+          "Simulacion Prueba Practica - Prog3 (Juego de memoria).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simulacion Prueba Practica - Prog3 (Juego de memoria)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

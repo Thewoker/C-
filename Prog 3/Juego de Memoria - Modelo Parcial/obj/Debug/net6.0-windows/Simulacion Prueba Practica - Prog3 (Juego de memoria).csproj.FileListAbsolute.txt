@@ -1,0 +1,36 @@
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\CSharp\Simulacion Prueba Practica - Prog3 (Juego de memoria)\bin\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).exe
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\CSharp\Simulacion Prueba Practica - Prog3 (Juego de memoria)\bin\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).deps.json
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\CSharp\Simulacion Prueba Practica - Prog3 (Juego de memoria)\bin\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).runtimeconfig.json
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\CSharp\Simulacion Prueba Practica - Prog3 (Juego de memoria)\bin\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).dll
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\CSharp\Simulacion Prueba Practica - Prog3 (Juego de memoria)\bin\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).pdb
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\CSharp\Simulacion Prueba Practica - Prog3 (Juego de memoria)\obj\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).csproj.AssemblyReference.cache
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\CSharp\Simulacion Prueba Practica - Prog3 (Juego de memoria)\obj\Debug\net6.0-windows\Simulacion_Prueba_Practica___Prog3__Juego_de_memoria_.Form1.resources
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\CSharp\Simulacion Prueba Practica - Prog3 (Juego de memoria)\obj\Debug\net6.0-windows\Simulacion_Prueba_Practica___Prog3__Juego_de_memoria_.Properties.Resources.resources
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\CSharp\Simulacion Prueba Practica - Prog3 (Juego de memoria)\obj\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).csproj.GenerateResource.cache
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\CSharp\Simulacion Prueba Practica - Prog3 (Juego de memoria)\obj\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\CSharp\Simulacion Prueba Practica - Prog3 (Juego de memoria)\obj\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).AssemblyInfoInputs.cache
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\CSharp\Simulacion Prueba Practica - Prog3 (Juego de memoria)\obj\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).AssemblyInfo.cs
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\CSharp\Simulacion Prueba Practica - Prog3 (Juego de memoria)\obj\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).csproj.CoreCompileInputs.cache
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\CSharp\Simulacion Prueba Practica - Prog3 (Juego de memoria)\obj\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).dll
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\CSharp\Simulacion Prueba Practica - Prog3 (Juego de memoria)\obj\Debug\net6.0-windows\refint\Simulacion Prueba Practica - Prog3 (Juego de memoria).dll
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\CSharp\Simulacion Prueba Practica - Prog3 (Juego de memoria)\obj\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).pdb
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\CSharp\Simulacion Prueba Practica - Prog3 (Juego de memoria)\obj\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).genruntimeconfig.cache
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\CSharp\Simulacion Prueba Practica - Prog3 (Juego de memoria)\obj\Debug\net6.0-windows\ref\Simulacion Prueba Practica - Prog3 (Juego de memoria).dll
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\Final\CSharp\Prog 3\Juego de Memoria - Modelo Parcial\obj\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).csproj.AssemblyReference.cache
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\Final\CSharp\Prog 3\Juego de Memoria - Modelo Parcial\obj\Debug\net6.0-windows\Simulacion_Prueba_Practica___Prog3__Juego_de_memoria_.Form1.resources
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\Final\CSharp\Prog 3\Juego de Memoria - Modelo Parcial\obj\Debug\net6.0-windows\Simulacion_Prueba_Practica___Prog3__Juego_de_memoria_.Properties.Resources.resources
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\Final\CSharp\Prog 3\Juego de Memoria - Modelo Parcial\obj\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).csproj.GenerateResource.cache
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\Final\CSharp\Prog 3\Juego de Memoria - Modelo Parcial\obj\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\Final\CSharp\Prog 3\Juego de Memoria - Modelo Parcial\obj\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).AssemblyInfoInputs.cache
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\Final\CSharp\Prog 3\Juego de Memoria - Modelo Parcial\obj\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).AssemblyInfo.cs
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\Final\CSharp\Prog 3\Juego de Memoria - Modelo Parcial\obj\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).csproj.CoreCompileInputs.cache
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\Final\CSharp\Prog 3\Juego de Memoria - Modelo Parcial\obj\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).dll
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\Final\CSharp\Prog 3\Juego de Memoria - Modelo Parcial\obj\Debug\net6.0-windows\refint\Simulacion Prueba Practica - Prog3 (Juego de memoria).dll
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\Final\CSharp\Prog 3\Juego de Memoria - Modelo Parcial\obj\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).pdb
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\Final\CSharp\Prog 3\Juego de Memoria - Modelo Parcial\bin\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).exe
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\Final\CSharp\Prog 3\Juego de Memoria - Modelo Parcial\bin\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).deps.json
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\Final\CSharp\Prog 3\Juego de Memoria - Modelo Parcial\bin\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).runtimeconfig.json
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\Final\CSharp\Prog 3\Juego de Memoria - Modelo Parcial\bin\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).dll
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\Final\CSharp\Prog 3\Juego de Memoria - Modelo Parcial\bin\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).pdb
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\Final\CSharp\Prog 3\Juego de Memoria - Modelo Parcial\obj\Debug\net6.0-windows\Simulacion Prueba Practica - Prog3 (Juego de memoria).genruntimeconfig.cache
+C:\Users\TheWo\OneDrive\Escritorio\Repositorios\Final\CSharp\Prog 3\Juego de Memoria - Modelo Parcial\obj\Debug\net6.0-windows\ref\Simulacion Prueba Practica - Prog3 (Juego de memoria).dll
