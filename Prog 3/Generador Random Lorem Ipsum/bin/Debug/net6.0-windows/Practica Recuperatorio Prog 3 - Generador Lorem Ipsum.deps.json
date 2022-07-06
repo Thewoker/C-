@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Practica Recuperatorio Prog 3 - Generador Lorem Ipsum/1.0.0": {
+        "runtime": {
+          "Practica Recuperatorio Prog 3 - Generador Lorem Ipsum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practica Recuperatorio Prog 3 - Generador Lorem Ipsum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
